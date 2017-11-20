@@ -1,7 +1,7 @@
 'use strict';
 
 
-class Icebreaker{
+let Icebreaker=class {
   question(){
     Question.Find()
   }
