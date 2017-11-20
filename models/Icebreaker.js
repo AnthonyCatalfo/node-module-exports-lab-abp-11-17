@@ -7,4 +7,4 @@ class Icebreaker{
   }
 }
 module.exports = Icebreaker
-class Icebreaker = require('./Question.js');
+class Icebreaker = require('./Question.js')
