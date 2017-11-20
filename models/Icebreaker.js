@@ -1,10 +1,8 @@
 'use strict';
 
 
-let Icebreaker=class {
+class Icebreaker{
   question(){
     Question.Find()
   }
 }
-module.exports = Icebreaker
-class Icebreaker = require('./Question.js')
